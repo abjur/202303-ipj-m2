@@ -1,0 +1,3 @@
+[submodule "materiais"]
+	path = materiais
+	url = https://github.com/abjur/curso_intro_jurimetria.git
