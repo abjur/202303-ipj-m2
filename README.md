@@ -9,12 +9,12 @@ quantitativa, com aplicações em temas do Direito.
 
 | aula             | slide                                                                                                 |
 |:-----------------|:------------------------------------------------------------------------------------------------------|
+| pgd              | [pgd](https://abjur.github.io/202303-ipj-m2/materiais/m2/slides/a_pgd.html)                           |
 | barplot          | [barplot](https://abjur.github.io/202303-ipj-m2/materiais/m2/slides/a_barplot.html)                   |
 | boxplot          | [boxplot](https://abjur.github.io/202303-ipj-m2/materiais/m2/slides/a_boxplot.html)                   |
-| dispersao        | [dispersao](https://abjur.github.io/202303-ipj-m2/materiais/m2/slides/a_dispersao.html)               |
-| histogram        | [histogram](https://abjur.github.io/202303-ipj-m2/materiais/m2/slides/a_histogram.html)               |
-| pgd              | [pgd](https://abjur.github.io/202303-ipj-m2/materiais/m2/slides/a_pgd.html)                           |
 | priest_klein     | [priest_klein](https://abjur.github.io/202303-ipj-m2/materiais/m2/slides/a_priest_klein.html)         |
+| histogram        | [histogram](https://abjur.github.io/202303-ipj-m2/materiais/m2/slides/a_histogram.html)               |
+| dispersao        | [dispersao](https://abjur.github.io/202303-ipj-m2/materiais/m2/slides/a_dispersao.html)               |
 | tecnica_pesquisa | [tecnica_pesquisa](https://abjur.github.io/202303-ipj-m2/materiais/m2/slides/a_tecnica_pesquisa.html) |
 | time_series      | [time_series](https://abjur.github.io/202303-ipj-m2/materiais/m2/slides/a_time_series.html)           |
 
